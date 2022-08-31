@@ -26,7 +26,6 @@ A DraculaTheme's inspired Spicetify color scheme.
    ```
    spicetify config current_theme Dracula
    ```
-
 # Preview
 
 ![](https://i.ibb.co/XSZY0KK/Schermata-del-2022-09-01-01-27-05.png)
