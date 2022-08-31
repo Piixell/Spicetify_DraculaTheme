@@ -20,6 +20,9 @@ A DraculaTheme's inspired Spicetify color scheme.
    ``cd Spicetify_DraculaTheme
    cp * "$(spicetify -c | Split-Path)\Themes\Sleek" -Recurse```
 
+# Preview
+
+![](https://i.ibb.co/XSZY0KK/Schermata-del-2022-09-01-01-27-05.png)
 
 # Useful link
 
