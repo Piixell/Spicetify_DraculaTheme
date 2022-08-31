@@ -12,13 +12,20 @@ A DraculaTheme's inspired Spicetify color scheme.
 2. Clone this repository:
 ```git clone https://github.com/Piixell/Spicetify_DraculaTheme```
 3. Overwrite the old "color.ini" file in the following path:
-   ###Linux and MacOS
-   ```cd Spicetify_DraculaTheme
+   ### Linux and MacOS
+   ```
+   cd Spicetify_DraculaTheme
    cp -r * ~/.config/spicetify/Themes/Sleek
    ```
-   ###Windows
-   ``cd Spicetify_DraculaTheme
-   cp * "$(spicetify -c | Split-Path)\Themes\Sleek" -Recurse```
+   ### Windows
+   ```
+   cd Spicetify_DraculaTheme
+   cp * "$(spicetify -c | Split-Path)\Themes\Sleek" -Recurse
+   ```
+4. Choose the color_scheme:
+   ```
+   spicetify config current_theme Dracula
+   ```
 
 # Preview
 
