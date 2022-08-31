@@ -33,4 +33,5 @@ A DraculaTheme's inspired Spicetify color scheme.
 # Useful link
 
 Spicetify-themes's offical Github: https://github.com/spicetify/spicetify-themes
+
 Spicetify installation guide: https://spicetify.app/docs/advanced-usage/installation
