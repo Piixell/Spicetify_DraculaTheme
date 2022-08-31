@@ -1,2 +1,27 @@
 # Spicetify_DraculaTheme
 A DraculaTheme's inspired Spicetify color scheme.
+
+# Notes:
+
+-  These color scheme can be applied only with the "Sleek" theme, available on the official Spicetify-Theme's Github. h
+-  Spotify ad-blocked version is not supported.
+
+# Installation and usage
+
+1. Install spicetify following the guide below and install "Sleek" theme.
+2. Clone this repository:
+```git clone https://github.com/Piixell/Spicetify_DraculaTheme```
+3. Overwrite the old "color.ini" file in the following path:
+   ###Linux and MacOS
+   ```cd Spicetify_DraculaTheme
+   cp -r * ~/.config/spicetify/Themes/Sleek
+   ```
+   ###Windows
+   ``cd Spicetify_DraculaTheme
+   cp * "$(spicetify -c | Split-Path)\Themes\Sleek" -Recurse```
+
+
+# Useful link
+
+Spicetify-themes's offical Github: https://github.com/spicetify/spicetify-themes
+Spicetify installation guide: https://spicetify.app/docs/advanced-usage/installation
